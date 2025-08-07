@@ -40,7 +40,7 @@ My research focuses on applying novel deep learning architectures to complex, re
 
 | Title | Description | Links |
 |---|---|---|
-| **Multi-modal AI for Oncology** | A Graph VAE framework with contrastive learning (**CLM-GVAE**) to predict immunotherapy response by fusing clinical, pathology, and radiology data. *Submitted to Computer Methods and Programs in Biomedicine.* | [**Paper**](https://www.editorialmanager.com/cmpb/download.aspx?id=316668&guid=%7B5A684A0A-32BC-47CE-A76A-95A1EFC1B56E%7D&scheme=1) |
+| **Multi-modal AI for Oncology** | A Graph VAE framework with contrastive learning (**CLM-GVAE**) to predict immunotherapy response by fusing clinical, pathology, and radiology data. *Submitted to Journal of Computer Methods and Programs in Biomedicine.* | [**Paper**](https://www.editorialmanager.com/cmpb/download.aspx?id=316668&guid=%7B5A684A0A-32BC-47CE-A76A-95A1EFC1B56E%7D&scheme=1) |
 | **Graph & Sentiment Fusion for Stock Forecasting** | A novel deep learning model (**GASF-Net**) that fuses Graph Neural Networks and NLP (FinBERT) to predict stock market movements. | [**Paper**](https://github.com/Kyanh56709/GASF-Net/blob/main/GASF_Net.pdf) |
 
 ### 🚀 Key Projects
