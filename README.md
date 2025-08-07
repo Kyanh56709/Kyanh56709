@@ -40,15 +40,15 @@ My research focuses on applying novel deep learning architectures to complex, re
 
 | Title | Description | Links |
 |---|---|---|
-| **Multi-modal AI for Oncology** | A Graph VAE framework with contrastive learning (**CLM-GVAE**) to predict immunotherapy response by fusing clinical, pathology, and radiology data. *Submitted to Computer Methods and Programs in Biomedicine.* | [**Paper**]([https://www.editorialmanager.com/cmpb/download.aspx?id=316668&guid=%7B5A684A0A-32BC-47CE-A76A-95A1EFC1B56E%7D&scheme=1]) |
-| **Graph & Sentiment Fusion for Stock Forecasting** | A novel deep learning model (**GASF-Net**) that fuses Graph Neural Networks and NLP (FinBERT) to predict stock market movements. | [**Paper**]([[LINK_TO_PAPER](https://github.com/Kyanh56709/GASF-Net/blob/main/GASF_Net.pdf)]) |
+| **Multi-modal AI for Oncology** | A Graph VAE framework with contrastive learning (**CLM-GVAE**) to predict immunotherapy response by fusing clinical, pathology, and radiology data. *Submitted to Computer Methods and Programs in Biomedicine.* | [**Paper**](https://www.editorialmanager.com/cmpb/download.aspx?id=316668&guid=%7B5A684A0A-32BC-47CE-A76A-95A1EFC1B56E%7D&scheme=1) |
+| **Graph & Sentiment Fusion for Stock Forecasting** | A novel deep learning model (**GASF-Net**) that fuses Graph Neural Networks and NLP (FinBERT) to predict stock market movements. | [**Paper**](https://github.com/Kyanh56709/GASF-Net/blob/main/GASF_Net.pdf) |
 
 ### 🚀 Key Projects
 
 | Project | Description | Links |
 |---|---|---|
-| **🤖 AI-Powered Interactive BJJ Coach** | A full-stack RAG chatbot that provides text answers linked to timestamped BJJ-Fanatics instructional videos, creating a rich, interactive learning experience. Please contact through email for an account **Tech:** RAG, Gemini, Pinecone. | [**Live Demo**]([[LINK_TO_YOUR_LIVE_APP](https://bjj-library.vercel.app/)]) |
-|**Bike Rental Management System and Traffic Congestion Prediction**|Developed an integrated urban mobility project by applying Graph Neural Networks (GCN, GRU) for spatio-temporal traffic forecasting and building a supporting full-stack application with Node.js and MongoDB|[**Paper**]([[LINK_TO_PAPER](https://github.com/Kyanh56709/GASF-Net/blob/main/GASF_Net.pdf)](https://github.com/Kyanh56709/AI-Research-Paper/blob/main/AIreport1.pdf))|
+| **🤖 AI-Powered Interactive BJJ Coach** | A full-stack RAG chatbot that provides text answers linked to timestamped BJJ-Fanatics instructional videos, creating a rich, interactive learning experience. Please contact through email for an account **Tech:** RAG, Gemini, Pinecone. | [**Live Demo**](https://bjj-library.vercel.app/) |
+|**Bike Rental Management System and Traffic Congestion Prediction**|Developed an integrated urban mobility project by applying Graph Neural Networks (GCN, GRU) for spatio-temporal traffic forecasting and building a supporting full-stack application with Node.js and MongoDB|[**Paper**](https://github.com/Kyanh56709/AI-Research-Paper/blob/main/AIreport1.pdf)|
 
 
 <!--
