@@ -49,7 +49,7 @@ My research focuses on applying novel deep learning architectures to complex, re
 |---|---|---|
 | **🤖 AI-Powered Interactive BJJ Coach** | A full-stack RAG chatbot that provides text answers linked to timestamped BJJ-Fanatics instructional videos, creating a rich, interactive learning experience. Please contact through email for an account **Tech:** RAG, Gemini, Pinecone. | [**Live Demo**](https://bjj-library.vercel.app/) |
 |**Bike Rental Management System and Traffic Congestion Prediction**|Developed an integrated urban mobility project by applying Graph Neural Networks (GCN, GRU) for spatio-temporal traffic forecasting and building a supporting full-stack application with Node.js and MongoDB|[**Paper**](https://github.com/Kyanh56709/AI-Research-Paper/blob/main/AIreport1.pdf)|
-
+|**CCTC Analysis System**|This project uses the YOLOv8 model to analyze video from traffic cameras, performing real-time tasks including object tracking, counting vehicles entering or exiting a designated area, and issuing alerts when signs of traffic congestion are detected.|[**Source**](https://github.com/Kyanh56709/cctv-analysis)|
 
 <!--
 **Kyanh56709/Kyanh56709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
