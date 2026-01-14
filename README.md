@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I'm a recent Information Technology Engineer graduate from **Hanoi University of Science and Technology (HUST)** with a deep passion for AI research. My focus is on **multimodal deep learning** and **generative AI**, with the goal of building intelligent systems that can understand and integrate complex, diverse data.
 
@@ -15,7 +15,7 @@ I have hands-on experience developing end-to-end deep learning models, resulting
   </a>
 </div>
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **AI & Machine Learning:**
 <p>
@@ -34,7 +34,7 @@ I have hands-on experience developing end-to-end deep learning models, resulting
   <img src="https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
 </p>
 
-### 🔬 Research & Publications
+### Research & Publications
 
 My research focuses on applying novel deep learning architectures to complex, real world data
 
@@ -43,11 +43,11 @@ My research focuses on applying novel deep learning architectures to complex, re
 | **Multi-modal AI for Oncology** | A Graph VAE framework with contrastive learning (**CLM-GVAE**) to predict immunotherapy response by fusing clinical, pathology, and radiology data. *Submitted to Journal of Computer Methods and Programs in Biomedicine.* | [**Paper**](https://www.editorialmanager.com/cmpb/download.aspx?id=316668&guid=%7B5A684A0A-32BC-47CE-A76A-95A1EFC1B56E%7D&scheme=1) |
 | **Graph & Sentiment Fusion for Stock Forecasting** | A novel deep learning model (**GASF-Net**) that fuses Graph Neural Networks and NLP (FinBERT) to predict stock market movements. | [**Paper**](https://github.com/Kyanh56709/GASF-Net/blob/main/GASF_Net.pdf) |
 
-### 🚀 Key Projects
+### Key Projects
 
 | Project | Description | Links |
 |---|---|---|
-| **🤖 AI-Powered Interactive BJJ Coach** | A full-stack RAG chatbot that provides text answers linked to timestamped BJJ-Fanatics instructional videos, creating a rich, interactive learning experience. Please contact through email for an account **Tech:** RAG, Gemini, Pinecone. | [**Live Demo**](https://bjj-library.vercel.app/) |
+| **AI-Powered Interactive BJJ Coach** | A full-stack RAG chatbot that provides text answers linked to timestamped BJJ-Fanatics instructional videos, creating a rich, interactive learning experience. Please contact through email for an account **Tech:** RAG, Gemini, Pinecone. | [**Live Demo**](https://bjj-library.vercel.app/) |
 |**Bike Rental Management System and Traffic Congestion Prediction**|Developed an integrated urban mobility project by applying Graph Neural Networks (GCN, GRU) for spatio-temporal traffic forecasting and building a supporting full-stack application with Node.js and MongoDB|[**Paper**](https://github.com/Kyanh56709/AI-Research-Paper/blob/main/AIreport1.pdf)|
 |**CCTC Analysis System**|This project uses the YOLOv8 model to analyze video from traffic cameras, performing real-time tasks including object tracking, counting vehicles entering or exiting a designated area, and issuing alerts when signs of traffic congestion are detected.|[**Source**](https://github.com/Kyanh56709/cctv-analysis)|
 
